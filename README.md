@@ -1,3 +1,3 @@
 # first-landing-page
 
-Create first landing page from template from Odin
+This is my first attempt at making a landing page from scratch
